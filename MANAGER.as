@@ -11,7 +11,7 @@ package core
 		private var states	:Array = [];
 		
 		//----- PUBIC VARS
-		public var cstate:core.STATE;
+		public var cstate:STATE;
 		
 		
 		//---
