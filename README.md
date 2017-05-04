@@ -19,7 +19,7 @@ Wait, wait, no... let's be understanding of our guest. Wait, how did you get her
 UHUUUHHGG, i'm off track again. Okay, let's...
 
 
->-\-\-\-\-\-\-\-\-\-\-\-\-\-GET DOWN TO "BRASS TACKS"-/-/-/-/-/-/-/-/-/-/-/-/-/-/-<
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/- GET DOWN TO "BRASS TACKS" -/-/-/-/-/-/-/-/-/-/-/-/-/-/-
 
 
 > The purpose of this lil' engine is:
