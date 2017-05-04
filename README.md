@@ -46,4 +46,4 @@ UHUUUHHGG, i'm off track again. Okay, let's...
 
 This repository is for ME. I mean, use if want, BUTT understand it's not really worth your trouble. If you want a good engine
 for as3 games... try Flixel. Um, fairly sure you know about it if you're here (unless you're 2, 4, or 5 -in which case- get lost,
-wtf and, where's biggie and 2pac? (respectively, also nested parenthetics b'cas why naaaaht?))
+wtf and, where's biggie and 2pac? (respectively (also nested parenthetics b'cas why naaaaht?)))
