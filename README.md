@@ -22,25 +22,25 @@ UHUUUHHGG, i'm off track again. Okay, let's...
 >-\-\-\-\-\-\-\-\-\-\-\-\-\-GET DOWN TO "BRASS TACKS"-/-/-/-/-/-/-/-/-/-/-/-/-/-/-<
 
 
->>>> The purpose of this lil' engine is:
+> The purpose of this lil' engine is:
 
-A) Replace AS3's event model 
-B) Replace Flash's "timeline" bullshit with proper states, and 
-C) Be fucking amazing
-
-
->>>> We wish to accomplish these by a means which is:
-
-A) Lightweight
-B) Easy to use
-C) Makes me look smart
+1) Replace AS3's event model 
+2) Replace Flash's "timeline" bullshit with proper states, and 
+3) Be fucking amazing
 
 
->>>> For the greater good of:
+> We wish to accomplish these by a means which is:
 
-A) Me
-B) Some brunette who's willing to spit out my bastard children
-C) Some other third thing
+1) Lightweight
+2) Easy to use
+3) Makes me look smart
+
+
+> For the greater good of:
+
+1) Me
+2) Some brunette who's willing to spit out my bastard children
+3) Some other third thing
 
 
 
